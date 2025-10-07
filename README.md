@@ -1,2 +1,2 @@
 # Java-Poo-Frontend
-Frontend do Projeto Integrador Pdv-Posto-Combustivel
+Frontend para prototipo operações de CRUD utilizando Swing
