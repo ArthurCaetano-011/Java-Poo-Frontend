@@ -5,14 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03e27f0b-1027-43d6-9910-e3bab8641708" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/mock/ProdutoMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/view/ProdutoView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acesso/dto/AcessoListResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acesso/dto/AcessoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acesso/dto/AcessoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acesso/enums/TipoAcesso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/acesso/service/AcessoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/client/ApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/AcessoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/AcessoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/BombaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/ContatoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/ContatoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/CustoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/CustoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/EstoqueRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/EstoqueResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/PageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/PessoaRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/PessoaResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/PrecoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/PrecoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/PrecoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/ProdutoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/ProdutoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/ProdutoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/TipoAcesso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/TipoContato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/TipoCusto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/TipoEstoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/TipoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/TipoPreco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/dto/TipoProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/auth/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/auth/dto/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/auth/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/mock/ProdutoMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/model/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/view/ProdutoView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,25 +70,35 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="33kyo5qH2NeR7QwQTaM7xJmLJUX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Aluno/Documents/Projetos/Java-Poo-Frontend/src/main/java/br/com/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NWT-JovaKing/IdeaProjects/Java-Poo-Frontend/src/main/java/br/com/auth/dto&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno/Documents/Projetos/Java-Poo-Frontend/src/main/java/br/com/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NWT-JovaKing\IdeaProjects\Java-Poo-Frontend\src\main\java\br\com\auth\dto" />
+      <recent name="C:\Users\NWT-JovaKing\IdeaProjects\Java-Poo-Frontend\src\main\java\br\com\api\dto" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.Main" />
@@ -60,6 +119,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Aluno\AppData\Roaming\Subversion</configuration>
   </component>
