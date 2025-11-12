@@ -1,2 +1,2 @@
-# Java-Poo-Frontend
-Frontend para prototipo operações de CRUD utilizando Swing
+# java-POO-frontend
+Repositório referente a parte frontend do proojeto pdv posto de combustivel
