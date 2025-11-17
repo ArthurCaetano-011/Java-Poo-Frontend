@@ -1,9 +1,9 @@
 package br.com.service;
 
-import br.com.api.client.ApiClient;
 import br.com.api.dto.PageResponse;
 import br.com.api.dto.PrecoRequest;
 import br.com.api.dto.PrecoResponse;
+import br.com.common.http.ApiClient;
 import br.com.common.service.ApiServiceException;
 import com.google.gson.reflect.TypeToken;
 

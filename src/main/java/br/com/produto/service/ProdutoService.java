@@ -1,6 +1,6 @@
 package br.com.produto.service;
 
-import br.com.api.client.ApiClient;
+import br.com.common.http.ApiClient;
 import br.com.common.service.ApiServiceException;
 import br.com.produto.dto.ProdutoListResponse;
 import br.com.produto.dto.ProdutoRequest;

@@ -2,7 +2,7 @@ package br.com.auth.service;
 
 import br.com.auth.dto.LoginRequest;
 import br.com.auth.dto.LoginResponse;
-import br.com.api.client.ApiClient;
+import br.com.common.http.ApiClient;
 import br.com.common.service.ApiServiceException;
 import br.com.common.session.SessionManager;
 

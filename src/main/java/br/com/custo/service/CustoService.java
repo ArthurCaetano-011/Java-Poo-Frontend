@@ -1,10 +1,11 @@
 package br.com.custo.service;
 
+import br.com.common.http.ApiClient;
 import br.com.common.service.ApiServiceException;
 import br.com.custo.dto.CustoListResponse;
 import br.com.custo.dto.CustoRequest;
 import br.com.custo.dto.CustoResponse;
-import br.com.api.client.ApiClient;
+
 import java.io.IOException;
 import java.util.List;
 

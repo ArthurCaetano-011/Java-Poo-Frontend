@@ -4,9 +4,10 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 public record PrecoResponse(
+        BigDecimal valor,
         LocalDate dataAlteracao,
         LocalDate horaAlteracao,
-        BigDecimal valor
+        TipoPreco tipoPreco
 ) {
 
 }

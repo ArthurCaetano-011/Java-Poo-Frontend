@@ -1,10 +1,11 @@
 package br.com.estoque.service;
 
+import br.com.common.http.ApiClient;
 import br.com.common.service.ApiServiceException;
 import br.com.estoque.dto.EstoqueListResponse;
 import br.com.estoque.dto.EstoqueRequest;
 import br.com.estoque.dto.EstoqueResponse;
-import br.com.api.client.ApiClient;
+
 import java.io.IOException;
 import java.util.List;
 

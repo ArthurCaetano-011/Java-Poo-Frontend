@@ -1,9 +1,10 @@
 package br.com.api.dto;
 
 public enum TipoContato {
-    TELEFONE("Contato Telefone"),
-    CELULAR("Contato Celular"),
-    EMAIL("Contato e-mail");
+
+    CLIENTE("Contato Cliente"),
+    FORNECEDOR("Contato Fornecedor"),
+    FUNCIONARIO("Contato Funcionario");
 
     private final String descricao;
 

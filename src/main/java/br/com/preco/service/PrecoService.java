@@ -1,11 +1,12 @@
 package br.com.preco.service;
 
+import br.com.common.http.ApiClient;
 import br.com.common.http.PageResponse;
 import br.com.common.service.ApiServiceException;
 import br.com.preco.dto.PrecoRequest;
 import br.com.preco.dto.PrecoResponse;
 import com.google.gson.reflect.TypeToken;
-import br.com.api.client.ApiClient;
+
 import java.io.IOException;
 import java.lang.reflect.Type;
 import java.util.List;

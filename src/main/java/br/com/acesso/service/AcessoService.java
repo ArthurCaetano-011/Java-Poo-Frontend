@@ -3,7 +3,7 @@ package br.com.acesso.service;
 import br.com.acesso.dto.AcessoListResponse;
 import br.com.acesso.dto.AcessoRequest;
 import br.com.acesso.dto.AcessoResponse;
-import br.com.api.client.ApiClient;
+import br.com.common.http.ApiClient;
 import br.com.common.service.ApiServiceException;
 
 import java.io.IOException;

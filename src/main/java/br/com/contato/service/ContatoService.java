@@ -1,6 +1,6 @@
 package br.com.contato.service;
 
-import br.com.api.client.ApiClient;
+import br.com.common.http.ApiClient;
 import br.com.common.service.ApiServiceException;
 import br.com.contato.dto.ContatoListResponse;
 import br.com.contato.dto.ContatoRequest;

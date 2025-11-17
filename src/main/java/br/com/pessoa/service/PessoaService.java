@@ -1,10 +1,10 @@
 package br.com.pessoa.service;
 
-import br.com.api.client.ApiClient;
 import br.com.common.service.ApiServiceException;
 import br.com.pessoa.dto.PessoaListResponse;
 import br.com.pessoa.dto.PessoaRequest;
 import br.com.pessoa.dto.PessoaResponse;
+import br.com.common.http.ApiClient;
 
 import java.io.IOException;
 import java.util.List;
